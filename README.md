@@ -104,7 +104,7 @@ const learning = {
 };
 ```
 
-## 📈 Hedeflerim (2025)
+## 📈 Hedeflerim (2026)
 
 - [ ] İlk bug bounty ödülümü kazanmak
 - [ ] 50+ writeup yazmak
